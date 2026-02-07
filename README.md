@@ -44,7 +44,7 @@ Link do Repositório: https://github.com/LucasLeal0619/Sistema_Entrega_Logistica
 ---
 
 ## 🎯 Objetivo Profissional
-Busco uma **oportunidade de estágio ou posição júnior** onde eu possa contribuir com soluções bem estruturadas, aprender com times colaborativos e evoluir tecnicamente em Back-end e Cloud.
+Busco uma **oportunidade de estágio ou posição júnior** onde eu possa contribuir com soluções bem estruturadas, aprender com times colaborativos e evoluir tecnicamente em Back-end.
 
 ---
 
