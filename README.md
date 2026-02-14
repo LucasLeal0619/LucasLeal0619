@@ -41,6 +41,14 @@ API REST robusta desenvolvida para resolver problemas reais de logística.
 
 Link do Repositório: https://github.com/LucasLeal0619/Sistema_Entrega_Logistica.git
 
+### 🔹 API de Gerenciamento de Eventos (Comunidade Café Bugado)
+Projeto colaborativo focado na migração e desacoplamento de uma plataforma de eventos tech.
+- **Arquitetura Moderna**: Migração de sistema integrado para API independente com NestJS e TypeScript.
+- **DevOps & CI/CD**: Implementação de automações via GitHub Actions e regras de proteção de branches.
+- **Gestão de Dados**: Integração com Supabase para persistência e segurança das informações.
+
+Link do Repositório: https://github.com/cafebugado/backendEventos.git
+
 ---
 
 ## 🎯 Objetivo Profissional
